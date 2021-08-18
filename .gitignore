@@ -1,0 +1,15 @@
+*.kml
+*.xml
+todo.txt
+t_*
+distributions
+load_dists.php
+docs
+helper
+
+pooled
+ParkingApp.sql
+note.kml
+Ergastiriaki_Askisi_18_19.pdf
+Ergastiriaki_Askisi_18_19-Endiktikes-katanomes.xlsx
+Parousiasi-erg-askisis.pdf
